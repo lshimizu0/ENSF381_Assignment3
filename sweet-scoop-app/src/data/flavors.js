@@ -5,7 +5,7 @@ const flavors = [
     price: "$4.99",
     description: "Classic creamy vanilla ice cream made with fresh ingredients.",
     duration: "8 weeks",
-    image: "images/vanilla.jpg"
+    image: "images/vanilla.webp"
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const flavors = [
     price: "$5.49",
     description: "Rich and smooth chocolate ice cream for true chocolate lovers.",
     duration: "8 weeks",
-    image: "images/chocolate.jpg"
+    image: "images/chocolate-ice-cream-5.jpg"
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ const flavors = [
     price: "$5.59",
     description: "Crunchy cookie chunks in smooth vanilla cream.",
     duration: "8 weeks",
-    image: "images/cookies-cream.jpg"
+    image: "images/oreo-cheesecake-ice-cream-9.jpg"
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const flavors = [
     price: "$5.69",
     description: "Sweet caramel with crunchy toffee bits.",
     duration: "8 weeks",
-    image: "images/caramel.jpg"
+    image: "images/caramel-ice-cream-front-view.jpg"
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const flavors = [
     price: "$5.39",
     description: "Tropical mango flavor bursting with freshness.",
     duration: "8 weeks",
-    image: "images/mango.jpg"
+    image: "images/Mango-Ice-Cream-7.webp"
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const flavors = [
     price: "$5.49",
     description: "Sweet blueberries blended into creamy goodness.",
     duration: "8 weeks",
-    image: "images/blueberry.jpg"
+    image: "images/Blueberry-Ice-Cream-9-819x1024.jpg"
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const flavors = [
     price: "$5.79",
     description: "Nutty pistachio ice cream with a smooth texture.",
     duration: "8 weeks",
-    image: "images/pistachio.jpg"
+    image: "images/Pistachio-Ice-Cream-5.jpg"
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ const flavors = [
     price: "$5.89",
     description: "Chocolate ice cream with marshmallows and almonds.",
     duration: "8 weeks",
-    image: "images/rocky-road.jpg"
+    image: "images/charlo.webp"
   }
 ];
 

@@ -1,12 +1,16 @@
+import NavBar from "../components/navbar";
 
 
 function Header() {
     return (
-        <div class = "header">
+        <div>
+        <header>
             <img src="./images/logo.jpeg"></img>
             <h1>Sweet Scoop Ice Cream</h1>
-            <hr></hr>
+        </header>  
+        <NavBar />          
         </div>
+
     )
 }
 
